@@ -1,0 +1,5 @@
+This file conatains a split of the statista dataset which is parrt of the Chart-to-text dataset. 
+It is divided into 3 directories: training, testing and validation.
+Each of these directories is divided into 5 directories for the different chart types: bar, column, line, pie, table.
+Moreover, each graph type contains 3 directories, one for the images, one for the data points and one for the caption 
+which is a short description of the graph.

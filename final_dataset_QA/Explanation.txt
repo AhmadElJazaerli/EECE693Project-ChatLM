@@ -1,0 +1,3 @@
+The Overall_images directory contains the graphs.
+The overall_test_annotations contains the graph number/name and the tasks it can be used for.
+The overall_test_qa_pairs contains the graphs and their respective questions and answers.
